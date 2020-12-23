@@ -6,7 +6,7 @@ SAT has a big place in artificial intelligence. The study of this problem and it
 
 For several years now, SAT has been the subject of numerous works which have produced remarkable results on two levels: theoretical and practical. But despite its success, there is still a great demand for effective algorithms that can solve these difficult problems.
 
-We are going in this project to test several methods which are either blind or informed (use a heuristic) namely "" Search by depth, Search by width, Search A * "" as well as evolutionary search algorithms for solving the satisfiability problem, namely (genetic algorithm, ant colony optimization).
+We are going in this project to test several methods which are either blind or informed (use a heuristic) namely "" Search by depth, Search by width, Search A * "" as well as evolutionary search algorithms for solving the satisfiability problem, namely ("genetic algorithm, ant colony optimization").
 
 
 To run the project you need to:
